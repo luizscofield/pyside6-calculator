@@ -1,4 +1,4 @@
-# Dekstop Calculator using Python with PySide6
+# Desktop Calculator using Python with PySide6
 
 
 ## Requirements
