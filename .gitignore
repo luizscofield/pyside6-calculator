@@ -1,0 +1,12 @@
+# ignoring virtual environment folders
+venv
+.venv
+
+# ignoring python local cache
+__pycache__
+
+# igoring environmental variables file
+.env
+
+# ignoring chromedriver used for selenium
+chromedriver
